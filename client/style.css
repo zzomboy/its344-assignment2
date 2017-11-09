@@ -1,0 +1,30 @@
+.content{
+	background: #444444;
+	text-align: center;
+	margin: auto;
+	margin-top: 50px;
+	width: 150px;
+	border-radius: 10px; 
+	padding: 20px;
+	box-shadow: 0px 0px 5px rgb(150, 150, 150);
+	-webkit-box-shadow: 0px 0px 5px rgb(150, 150, 150);
+	-moz-box-shadow: 0px 0px 5px rgb(150, 150, 150);
+	-o-box-shadow: 0px 0px 5px rgb(150, 150, 150);
+}
+.topic{
+	font-size: 16px;	
+	color: #B2B198
+}
+.number{
+	color: white;
+	font-size: 44px;
+	padding: 10px 0px;
+}
+button{
+	font-size: 14px;
+	width: 32px;
+	background: #B5AF9B;
+	border-radius: 5px;
+	margin-right: 6px; 
+	padding: 2px 0px;
+}
